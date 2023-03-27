@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discord.Net.Host", "src\Discord.Net.Host\Discord.Net.Host.csproj", "{FCC069A6-678D-4E81-AF74-64C35247D8F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discord.Net.Host.Sample", "samples\Discord.Net.Host.Sample\Discord.Net.Host.Sample.csproj", "{AC3A8030-F583-4C83-8E7B-B0735D68DEFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCC069A6-678D-4E81-AF74-64C35247D8F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCC069A6-678D-4E81-AF74-64C35247D8F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCC069A6-678D-4E81-AF74-64C35247D8F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCC069A6-678D-4E81-AF74-64C35247D8F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC3A8030-F583-4C83-8E7B-B0735D68DEFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC3A8030-F583-4C83-8E7B-B0735D68DEFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC3A8030-F583-4C83-8E7B-B0735D68DEFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC3A8030-F583-4C83-8E7B-B0735D68DEFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
